@@ -1,0 +1,307 @@
+ANO;SEXO;LOCALIDAD;CASOS
+2015;Hombre;Ciudad Bolívar;966
+2015;Mujer;Ciudad Bolívar;421
+2015;Mujer;Bosa;1107
+2015;Hombre;Bosa;1773
+2015;Hombre;Teusaquillo;542
+2015;Mujer;Teusaquillo;161
+2015;Hombre;Mártires;163
+2015;Mujer;Mártires;19
+2015;Hombre;Usaquén;142
+2015;Mujer;Usaquén;27
+2015;Hombre;Kennedy;873
+2015;Hombre;Suba;814
+2015;Mujer;Suba;633
+2015;Hombre;Engativá;283
+2015;Mujer;Usme;414
+2015;Hombre;Usme;911
+2015;Mujer;Engativá;19
+2015;Mujer;Kennedy;181
+2015;Mujer;Fontibón;130
+2015;Hombre;Fontibón;298
+2015;Mujer;Barrios Unidos;442
+2015;Hombre;Barrios Unidos;349
+2015;Hombre;Chapinero;14
+2015;Mujer;Chapinero;4
+2015;Hombre;Tunjuelito;465
+2015;Mujer;Tunjuelito;152
+2015;Mujer;Rafael Uribe;158
+2015;Hombre;Rafael Uribe;428
+2015;Hombre;San Cristóbal;1113
+2015;Mujer;San Cristóbal;302
+2015;Hombre;Santa Fe;448
+2015;Mujer;Santa Fe;116
+2015;Hombre;Puente Aranda;616
+2015;Mujer;Puente Aranda;126
+2015;Hombre;Antonio Nariño;89
+2015;Hombre;Sin Dato;47
+2015;Mujer;Sin Dato;8
+2015;Mujer;Antonio Nariño;28
+2016;Hombre;Bosa;524
+2016;Mujer;Bosa;230
+2016;Hombre;Teusaquillo;753
+2016;Mujer;Teusaquillo;114
+2016;Hombre;Mártires;318
+2016;Mujer;Mártires;88
+2016;Hombre;Usaquén;403
+2016;Mujer;Usaquén;204
+2016;Hombre;Kennedy;505
+2016;Hombre;Engativá;389
+2016;Mujer;Engativá;50
+2016;Hombre;Suba;905
+2016;Mujer;Suba;424
+2016;Hombre;Usme;518
+2016;Mujer;Usme;381
+2016;Hombre;Fontibón;150
+2016;Mujer;Fontibón;59
+2016;Mujer;Kennedy;83
+2016;Hombre;Barrios Unidos;8
+2016;Mujer;Barrios Unidos;2
+2016;Mujer;Chapinero;13
+2016;Hombre;Chapinero;41
+2016;Hombre;Tunjuelito;626
+2016;Mujer;Tunjuelito;148
+2016;Mujer;Rafael Uribe;5
+2016;Hombre;Rafael Uribe;45
+2016;Hombre;San Cristóbal;493
+2016;Mujer;San Cristóbal;297
+2016;Hombre;Ciudad Bolívar;77
+2016;Mujer;Ciudad Bolívar;39
+2016;Hombre;Santa Fe;1098
+2016;Mujer;Santa Fe;241
+2016;Hombre;Puente Aranda;551
+2016;Mujer;Puente Aranda;62
+2016;Mujer;Antonio Nariño;14
+2016;Hombre;Antonio Nariño;45
+2016;Hombre;Sin Dato;45
+2016;Mujer;Sin Dato;16
+2017;Hombre;Chapinero;94
+2017;Hombre;Kennedy;68
+2017;Mujer;Kennedy;6
+2017;Hombre;Mártires;438
+2017;Mujer;Mártires;82
+2017;Mujer;Usaquén;59
+2017;Hombre;Usaquén;312
+2017;Mujer;Teusaquillo;140
+2017;Hombre;Teusaquillo;901
+2017;Hombre;Engativá;456
+2017;Mujer;Engativá;66
+2017;Hombre;Suba;179
+2017;Mujer;Suba;149
+2017;Hombre;Rafael Uribe;111
+2017;Mujer;Rafael Uribe;19
+2017;Mujer;Chapinero;17
+2017;Mujer;Antonio Nariño;15
+2017;Hombre;Antonio Nariño;46
+2017;Mujer;Santa Fe;130
+2017;Hombre;Santa Fe;393
+2017;Mujer;Puente Aranda;29
+2017;Hombre;Puente Aranda;243
+2017;Mujer;Tunjuelito;85
+2017;Hombre;Tunjuelito;503
+2017;Hombre;Sin Dato;38
+2017;Mujer;Sin Dato;8
+2017;Hombre;Ciudad Bolívar;309
+2017;Mujer;Ciudad Bolívar;89
+2017;Hombre;Fontibón;331
+2017;Mujer;Fontibón;33
+2018;Mujer;Engativá;96
+2018;Hombre;Engativá;635
+2018;Hombre;Santa Fe;1578
+2018;Mujer;Teusaquillo;49
+2018;Hombre;Teusaquillo;411
+2018;Hombre;Mártires;139
+2018;Mujer;Mártires;1
+2018;Mujer;Usaquén;88
+2018;Hombre;Usaquén;241
+2018;Hombre;Kennedy;33
+2018;Hombre;Suba;242
+2018;Mujer;Kennedy;6
+2018;Hombre;Barrios Unidos;3
+2018;Mujer;Suba;174
+2018;Hombre;Rafael Uribe;49
+2018;Mujer;Rafael Uribe;2
+2018;Mujer;Santa Fe;378
+2018;Hombre;Chapinero;73
+2018;Mujer;Chapinero;20
+2018;Hombre;Antonio Nariño;89
+2018;Mujer;Antonio Nariño;26
+2018;Mujer;Sin Dato;24
+2018;Hombre;Sin Dato;94
+2018;Mujer;Ciudad Bolívar;65
+2018;Hombre;Puente Aranda;1
+2018;Hombre;Ciudad Bolívar;284
+2018;Mujer;Fontibón;78
+2018;Hombre;Fontibón;405
+2019;Hombre;Mártires;635
+2019;Hombre;Tunjuelito;27
+2019;Hombre;Kennedy;58
+2019;Hombre;Teusaquillo;285
+2019;Mujer;Teusaquillo;36
+2019;Mujer;Mártires;86
+2019;Hombre;Usaquén;972
+2019;Mujer;Usaquén;597
+2019;Mujer;Kennedy;25
+2019;Mujer;Engativá;122
+2019;Hombre;Engativá;772
+2019;Hombre;Suba;334
+2019;Mujer;Suba;166
+2019;Hombre;Santa Fe;2083
+2019;Mujer;Santa Fe;614
+2019;Hombre;Chapinero;104
+2019;Mujer;Chapinero;15
+2019;Hombre;Puente Aranda;156
+2019;Hombre;Rafael Uribe;403
+2019;Mujer;Rafael Uribe;83
+2019;Hombre;Barrios Unidos;191
+2019;Mujer;Barrios Unidos;27
+2019;Mujer;Puente Aranda;19
+2019;Hombre;Antonio Nariño;57
+2019;Mujer;Antonio Nariño;15
+2019;Hombre;Sin Dato;82
+2019;Mujer;Sin Dato;20
+2019;Mujer;Tunjuelito;7
+2019;Hombre;Ciudad Bolívar;1073
+2019;Mujer;Ciudad Bolívar;440
+2019;Hombre;Fontibón;1171
+2019;Mujer;Fontibón;489
+2020;Hombre;Ciudad Bolívar;746
+2020;Mujer;Suba;136
+2020;Hombre;Mártires;447
+2020;Hombre;Usaquén;706
+2020;Mujer;Usaquén;285
+2020;Hombre;Kennedy;111
+2020;Hombre;Teusaquillo;157
+2020;Mujer;Teusaquillo;58
+2020;Mujer;Kennedy;24
+2020;Hombre;Engativá;387
+2020;Hombre;Suba;241
+2020;Hombre;Fontibón;729
+2020;Mujer;Chapinero;20
+2020;Hombre;Chapinero;187
+2020;Mujer;Mártires;64
+2020;Hombre;Rafael Uribe;508
+2020;Mujer;Rafael Uribe;132
+2020;Mujer;Engativá;42
+2020;Hombre;Barrios Unidos;96
+2020;Mujer;Barrios Unidos;9
+2020;Hombre;Santa Fe;1156
+2020;Mujer;Santa Fe;423
+2020;Hombre;Puente Aranda;217
+2020;Mujer;Puente Aranda;27
+2020;Hombre;San Cristóbal;2
+2020;Hombre;Antonio Nariño;80
+2020;Mujer;Antonio Nariño;7
+2020;Hombre;Tunjuelito;6
+2020;Hombre;Sin Dato;87
+2020;Mujer;Sin Dato;13
+2020;Mujer;Tunjuelito;45
+2020;Mujer;Ciudad Bolívar;286
+2020;Mujer;Fontibón;284
+2021;Hombre;Ciudad Bolívar;611
+2021;Mujer;Ciudad Bolívar;240
+2021;Mujer;Engativá;426
+2021;Hombre;Engativá;1114
+2021;Mujer;Suba;195
+2021;Hombre;Mártires;973
+2021;Hombre;Suba;310
+2021;Hombre;Usaquén;1554
+2021;Mujer;Usaquén;924
+2021;Hombre;Kennedy;212
+2021;Hombre;Teusaquillo;190
+2021;Mujer;Teusaquillo;41
+2021;Mujer;Kennedy;62
+2021;Mujer;Fontibón;440
+2021;Hombre;Fontibón;1326
+2021;Hombre;Antonio Nariño;65
+2021;Hombre;Rafael Uribe;791
+2021;Mujer;Rafael Uribe;353
+2021;Hombre;Chapinero;99
+2021;Mujer;Chapinero;22
+2021;Mujer;Mártires;21
+2021;Mujer;Tunjuelito;22
+2021;Hombre;Tunjuelito;116
+2021;Hombre;Barrios Unidos;78
+2021;Mujer;Barrios Unidos;5
+2021;Mujer;Usme;1
+2021;Hombre;Santa Fe;637
+2021;Mujer;Santa Fe;182
+2021;Mujer;San Cristóbal;22
+2021;Hombre;Puente Aranda;135
+2021;Mujer;Puente Aranda;18
+2021;Mujer;Antonio Nariño;6
+2021;Hombre;Sin Dato;44
+2021;Mujer;Sin Dato;10
+2021;Hombre;San Cristóbal;126
+2022;Hombre;Engativá;896
+2022;Mujer;Ciudad Bolívar;166
+2022;Hombre;Ciudad Bolívar;355
+2022;Mujer;Engativá;305
+2022;Hombre;Usaquén;769
+2022;Hombre;Suba;540
+2022;Mujer;Usaquén;437
+2022;Hombre;Mártires;2007
+2022;Mujer;Mártires;169
+2022;Mujer;Suba;277
+2022;Hombre;Kennedy;313
+2022;Hombre;Teusaquillo;172
+2022;Mujer;Teusaquillo;44
+2022;Hombre;Puente Aranda;143
+2022;Mujer;Kennedy;154
+2022;Mujer;Puente Aranda;26
+2022;Mujer;Fontibón;547
+2022;Hombre;Fontibón;1550
+2022;Mujer;Bosa;9
+2022;Hombre;Santa Fe;1079
+2022;Mujer;Santa Fe;242
+2022;Hombre;Rafael Uribe;584
+2022;Mujer;Rafael Uribe;241
+2022;Hombre;San Cristóbal;130
+2022;Hombre;Chapinero;142
+2022;Mujer;Chapinero;55
+2022;Hombre;Tunjuelito;80
+2022;Mujer;Tunjuelito;37
+2022;Hombre;Barrios Unidos;567
+2022;Mujer;Barrios Unidos;45
+2022;Mujer;Usme;2
+2022;Hombre;Usme;6
+2022;Mujer;San Cristóbal;64
+2022;Hombre;Sin Dato;2
+2022;Hombre;Antonio Nariño;47
+2022;Hombre;Bosa;9
+2022;Mujer;Antonio Nariño;1
+2023;Hombre;Bosa;113
+2023;Mujer;Ciudad Bolívar;139
+2023;Hombre;Engativá;524
+2023;Mujer;Barrios Unidos;230
+2023;Hombre;Usaquén;803
+2023;Mujer;Engativá;184
+2023;Mujer;Usaquén;510
+2023;Hombre;Barrios Unidos;871
+2023;Mujer;Puente Aranda;201
+2023;Hombre;Puente Aranda;658
+2023;Hombre;Mártires;889
+2023;Mujer;Mártires;80
+2023;Hombre;Suba;292
+2023;Mujer;Suba;119
+2023;Mujer;Fontibón;341
+2023;Mujer;Kennedy;51
+2023;Hombre;Fontibón;877
+2023;Hombre;Kennedy;122
+2023;Hombre;Teusaquillo;127
+2023;Mujer;Teusaquillo;34
+2023;Hombre;Tunjuelito;124
+2023;Hombre;Chapinero;284
+2023;Mujer;Chapinero;95
+2023;Mujer;Santa Fe;113
+2023;Hombre;Rafael Uribe;738
+2023;Mujer;Rafael Uribe;383
+2023;Mujer;San Cristóbal;66
+2023;Hombre;San Cristóbal;133
+2023;Mujer;Usme;1
+2023;Mujer;Tunjuelito;57
+2023;Mujer;Antonio Nariño;2
+2023;Hombre;Santa Fe;669
+2023;Mujer;Bosa;65
+2023;Hombre;Ciudad Bolívar;339
+2023;Mujer;Candelaria;1
